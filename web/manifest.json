@@ -3,7 +3,7 @@
     "short_name": "Reaction Rivals",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0D0E11",
+    "background_color": "#87D6F0",
     "theme_color": "#0D0E11",
     "description": "Wait for the color, tap first. Two-player reflex duel on one phone.",
     "orientation": "portrait",
